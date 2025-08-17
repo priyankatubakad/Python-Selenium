@@ -3,7 +3,6 @@ import time
 from selenium import webdriver
 chrome_driver =webdriver.ChromeOptions()
 
-
 driver= webdriver.Chrome()
 
 driver.get('https://demowebshop.tricentis.com/')

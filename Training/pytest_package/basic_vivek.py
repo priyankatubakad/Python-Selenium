@@ -1,6 +1,6 @@
 import time
 
-from selenium import webdriver
+from selenium import webdriv
 chrome_driver =webdriver.ChromeOptions()
 
 
